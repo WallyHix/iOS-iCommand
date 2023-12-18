@@ -225,7 +225,5 @@
 	<array>
 		<string>fetch</string>
 	</array>
-    <key>NSUserTrackingUsageDescription</key>
-    <string>Allowing tracking helps us improve your experience by personalizing content and providing relevant recommendations.</string>
 </dict>
 </plist>

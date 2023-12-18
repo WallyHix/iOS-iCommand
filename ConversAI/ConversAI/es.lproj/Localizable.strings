@@ -1,12 +1,12 @@
 /* 
  Localizable.strings
- ConversAI
+ iCommand
  
  Created by Murat ÖZTÜRK on 4.06.2023.
  
  */
 
-"app_name" = "ConversAI";
+"app_name" = "iCommand";
 "chat" = "Chat";
 "ai_assistants" = "Asistentes de IA";
 "history" = "Historial";
@@ -15,8 +15,8 @@
 "welcome" = "Bienvenido";
 "start_chat" = "Comenzar chat";
 "welcome_to" = "Bienvenido a";
-"welcome_app_name" = "ConversAI 👋";
-"welcome_description" = "Comienza a chatear con ConversAI ahora.\nPuedes preguntarme cualquier cosa";
+"welcome_app_name" = "iCommand 👋";
+"welcome_description" = "Comienza a chatear con iCommand ahora.\nPuedes preguntarme cualquier cosa";
 "ask_me_anything" = "Pregúntame cualquier cosa...";
 "back_icon" = "Icono de regreso";
 "share" = "Compartir";
@@ -186,7 +186,7 @@
 "help_center" = "Centro de ayuda";
 "about" = "Acerca de";
 "privacy_policy" = "Política de privacidad";
-"about_us" = "Acerca de ConversAI";
+"about_us" = "Acerca de iCommand";
 "logout" = "Cerrar sesión";
 "are_you_sure_logout" = "¿Estás seguro de que quieres cerrar sesión?";
 "yes_logout" = "Sí, cerrar sesión";
